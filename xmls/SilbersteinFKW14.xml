@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dblp>
+<article key="journals/tocs/SilbersteinFKW14" mdate="2014-03-18">
+<author>Mark Silberstein</author>
+<author>Bryan Ford</author>
+<author>Idit Keidar</author>
+<author>Emmett Witchel</author>
+<title>GPUfs: Integrating a file system with GPUs.</title>
+<pages>1</pages>
+<year>2014</year>
+<volume>32</volume>
+<journal>ACM Trans. Comput. Syst.</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/2553081</ee>
+<url>db/journals/tocs/tocs32.html#SilbersteinFKW14</url>
+</article>
+</dblp>

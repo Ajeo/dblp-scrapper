@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<dblp>
+<article key="journals/tissec/PhilippaertsYMPLW13" mdate="2013-07-15">
+<author>Pieter Philippaerts</author>
+<author>Yves Younan</author>
+<author>Stijn Muylle</author>
+<author>Frank Piessens</author>
+<author>Sven Lachmund</author>
+<author>Thomas Walter</author>
+<title>CPM: Masking Code Pointers to Prevent Code Injection Attacks.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>16</volume>
+<journal>ACM Trans. Inf. Syst. Secur.</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/2487222.2487223</ee>
+<url>db/journals/tissec/tissec16.html#PhilippaertsYMPLW13</url>
+</article>
+</dblp>

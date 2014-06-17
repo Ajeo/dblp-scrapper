@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dblp>
+<article key="journals/tos/LeeBN14" mdate="2014-02-18">
+<author>Eunji Lee</author>
+<author>Hyokyung Bahn</author>
+<author>Sam H. Noh</author>
+<title>A Unified Buffer Cache Architecture that Subsumes Journaling Functionality via Nonvolatile Memory.</title>
+<pages>1</pages>
+<year>2014</year>
+<volume>10</volume>
+<journal>TOS</journal>
+<number>1</number>
+<ee>http://doi.acm.org/10.1145/2560010</ee>
+<url>db/journals/tos/tos10.html#LeeBN14</url>
+</article>
+</dblp>
