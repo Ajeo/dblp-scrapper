@@ -1,0 +1,412 @@
+[
+  {
+    "id": "HwangHW13.xml",
+    "name": "ACM Transactions on Accessible Computing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/taccess/HwangHW13.xml"
+  },
+  {
+    "id": "BansalFKS14.xml",
+    "name": "ACM Transactions on Algorithms",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/talg/BansalFKS14.xml"
+  },
+  {
+    "id": "CaramiauxBBSHS14.xml",
+    "name": "ACM Transactions on Applied Perception",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tap/CaramiauxBBSHS14.xml"
+  },
+  {
+    "id": "GoelKP14.xml",
+    "name": "ACM Transactions on Architecture and Code Optimization",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/taco/GoelKP14.xml"
+  },
+  {
+    "id": "StrotgenACZG14.xml",
+    "name": "ACM Transactions on Asian Language Information Processing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/talip/StrotgenACZG14.xml"
+  },
+  {
+    "id": "Peleteiro-RamalloBAR14.xml",
+    "name": "ACM Transactions on Autonomous and Adaptive Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/taas/Peleteiro-RamalloBAR14.xml"
+  },
+  {
+    "id": "AdaCCFKP14.xml",
+    "name": "ACM Transactions on Computation Theory",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/toct/AdaCCFKP14.xml"
+  },
+  {
+    "id": "Bauer14.xml",
+    "name": "ACM Transactions on Computational Logic",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tocl/Bauer14.xml"
+  },
+  {
+    "id": "Zhai14.xml",
+    "name": "ACM Transactions on Computer-Human Interaction",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tochi/Zhai14.xml"
+  },
+  {
+    "id": "SilbersteinFKW14.xml",
+    "name": "ACM Transactions on Computer Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tocs/SilbersteinFKW14.xml"
+  },
+  {
+    "id": "KostylevRS14.xml",
+    "name": "ACM Transactions on Database Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tods/KostylevRS14.xml"
+  },
+  {
+    "id": "AyoubNR13.xml",
+    "name": "ACM Transactions on Design Automation of Electronic Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/todaes/AyoubNR13.xml"
+  },
+  {
+    "id": "PolevoyST14.xml",
+    "name": "ACM Transactions on Economics and Computation",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/teco/PolevoyST14.xml"
+  },
+  {
+    "id": "LiYL13.xml",
+    "name": "ACM Transactions on Embedded Computing Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tecs/LiYL13.xml"
+  },
+  {
+    "id": "TangK14.xml",
+    "name": "ACM Transactions on Graphics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tog/TangK14.xml"
+  },
+  {
+    "id": "PhilippaertsYMPLW13.xml",
+    "name": "ACM Transactions on Information and System Security",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tissec/PhilippaertsYMPLW13.xml"
+  },
+  {
+    "id": "NongCZG14.xml",
+    "name": "ACM Transactions on Information Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tois/NongCZG14.xml"
+  },
+  {
+    "id": "XiongST13.xml",
+    "name": "ACM Transactions on Intelligent Systems and Technology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tist/XiongST13.xml"
+  },
+  {
+    "id": "NurmiSFBF14.xml",
+    "name": "ACM Transactions on Interactive Intelligent Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tiis/NurmiSFBF14.xml"
+  },
+  {
+    "id": "LiM013.xml",
+    "name": "ACM Transactions on Internet Technology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/toit/LiM013.xml"
+  },
+  {
+    "id": "ChenT14.xml",
+    "name": "ACM Transactions on Knowledge Discovery from Data",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tkdd/ChenT14.xml"
+  },
+  {
+    "id": "HoLG14.xml",
+    "name": "ACM Transactions on Management Information Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tmis/HoLG14.xml"
+  },
+  {
+    "id": "GebremedhinNPP13.xml",
+    "name": "ACM Transactions on Mathematical Software",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/toms/GebremedhinNPP13.xml"
+  },
+  {
+    "id": "HaasHL14.xml",
+    "name": "ACM Transactions on Modeling and Computer Simulation",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tomacs/HaasHL14.xml"
+  },
+  {
+    "id": "LiLWXL13.xml",
+    "name": "ACM Transactions on Multimedia Computing, Communications, and Applications",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tomccap/LiLWXL13.xml"
+  },
+  {
+    "id": "NongCZG14.xml",
+    "name": "ACM Transactions on Office Information Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tois/NongCZG14.xml"
+  },
+  {
+    "id": "0008EW14.xml",
+    "name": "ACM Transactions on Programming Languages and Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/toplas/0008EW14.xml"
+  },
+  {
+    "id": "KornarosP14.xml",
+    "name": "ACM Transactions on Reconfigurable Technology and Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/trets/KornarosP14.xml"
+  },
+  {
+    "id": "QinM13.xml",
+    "name": "ACM Transactions on Sensor Networks",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tosn/QinM13.xml"
+  },
+  {
+    "id": "Rosenblum14.xml",
+    "name": "ACM Transactions on Software Engineering and Methodology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tosem/Rosenblum14.xml"
+  },
+  {
+    "id": "DuhYIN13.xml",
+    "name": "ACM Transactions on Speech and Language Processing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tslp/DuhYIN13.xml"
+  },
+  {
+    "id": "LeeBN14.xml",
+    "name": "ACM Transactions on Storage",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tos/LeeBN14.xml"
+  },
+  {
+    "id": "Huang13.xml",
+    "name": "ACM Transactions on the Web",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tweb/Huang13.xml"
+  },
+  {
+    "id": "JezierskaCPTE14.xml",
+    "name": "IEEE Transactions on Acoustics, Speech and Signal Processing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tsp/JezierskaCPTE14.xml"
+  },
+  {
+    "id": "YannakakisIPK14.xml",
+    "name": "IEEE Transactions on Affective Computing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/taffco/YannakakisIPK14.xml"
+  },
+  {
+    "id": "Spall14.xml",
+    "name": "IEEE Transactions on Automatic Control",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tac/Spall14.xml"
+  },
+  {
+    "id": "CassandrasFHRS14.xml",
+    "name": "IEEE Transactions on Automation Science and Engineering",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tase/CassandrasFHRS14.xml"
+  },
+  {
+    "id": "Zhang14.xml",
+    "name": "IEEE Transactions on Autonomous Mental Development",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tamd/Zhang14.xml"
+  },
+  {
+    "id": "ChenSWW14.xml",
+    "name": "IEEE Transactions on Biomedical Circuits and Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tbcas/ChenSWW14.xml"
+  },
+  {
+    "id": "He14.xml",
+    "name": "IEEE Transactions on Biomedical Engineering",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tbe/He14.xml"
+  },
+  {
+    "id": "FraileFG14.xml",
+    "name": "IEEE Transactions on Broadcasting",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tbc/FraileFG14.xml"
+  },
+  {
+    "id": "DhootCCM14.xml",
+    "name": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tcsv/DhootCCM14.xml"
+  },
+  {
+    "id": "ZhangS14.xml",
+    "name": "IEEE Transactions on Communications",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tcom/ZhangS14.xml"
+  },
+  {
+    "id": "AnthonyPN14.xml",
+    "name": "IEEE Transactions on Computational Intelligence and AI in Games",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tciaig/AnthonyPN14.xml"
+  },
+  {
+    "id": "Narayanan14.xml",
+    "name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tcad/Narayanan14.xml"
+  },
+  {
+    "id": "VeeravalliP14.xml",
+    "name": "IEEE Transactions on Computers",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tc/VeeravalliP14.xml"
+  },
+  {
+    "id": "Sherratt14.xml",
+    "name": "IEEE Transactions on Consumer Electronics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tce/Sherratt14.xml"
+  },
+  {
+    "id": "PizaSSC14.xml",
+    "name": "IEEE Transactions on Control Systems Technology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tcst/PizaSSC14.xml"
+  },
+  {
+    "id": "Bertino14.xml",
+    "name": "IEEE Transactions on Dependable and Secure Computing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tdsc/Bertino14.xml"
+  },
+  {
+    "id": "Froyd14.xml",
+    "name": "IEEE Transactions on Education",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/te/Froyd14.xml"
+  },
+  {
+    "id": "BandyopadhyayMCP14.xml",
+    "name": "IEEE Transactions on Evolutionary Computation",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tec/BandyopadhyayMCP14.xml"
+  },
+  {
+    "id": "TongHL14.xml",
+    "name": "IEEE Transactions on Fuzzy Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tfs/TongHL14.xml"
+  },
+  {
+    "id": "KangBD14.xml",
+    "name": "IEEE Transactions on Geoscience and Remote Sensing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tgrs/KangBD14.xml"
+  },
+  {
+    "id": "Jones14.xml",
+    "name": "IEEE Transactions on Haptics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/toh/Jones14.xml"
+  },
+  {
+    "id": "EhrhardtA14.xml",
+    "name": "IEEE Transactions on Image Processing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tip/EhrhardtA14.xml"
+  },
+  {
+    "id": "Abdel-KhalikMAM14.xml",
+    "name": "IEEE Transactions on Industrial Electronics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tie/Abdel-KhalikMAM14.xml"
+  },
+  {
+    "id": "PajicMSAGL14.xml",
+    "name": "IEEE Transactions on Industrial Informatics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tii/PajicMSAGL14.xml"
+  },
+  {
+    "id": "LvML14.xml",
+    "name": "IEEE Transactions on Information Forensics and Security",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tifs/LvML14.xml"
+  },
+  {
+    "id": "Yang14.xml",
+    "name": "IEEE Transactions on Information Technology in Biomedicine",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/titb/Yang14.xml"
+  },
+  {
+    "id": "PolyanskiyV14.xml",
+    "name": "IEEE Transactions on Information Theory",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tit/PolyanskiyV14.xml"
+  },
+  {
+    "id": "XianLLW14.xml",
+    "name": "IEEE Transactions on Instrumentation and Measurement",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tim/XianLLW14.xml"
+  },
+  {
+    "id": "Wang14.xml",
+    "name": "IEEE Transactions on Intelligent Transportation Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tits/Wang14.xml"
+  },
+  {
+    "id": "Pei14.xml",
+    "name": "IEEE Transactions on Knowledge and Data Engineering",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tkde/Pei14.xml"
+  },
+  {
+    "id": "BrusilovskyS14.xml",
+    "name": "IEEE Transactions on Learning Technologies",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tlt/BrusilovskyS14.xml"
+  },
+  {
+    "id": "VaillantPKPS14.xml",
+    "name": "IEEE Transactions on Medical Imaging",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tmi/VaillantPKPS14.xml"
+  },
+  {
+    "id": "GovindanR14.xml",
+    "name": "IEEE Transactions on Mobile Computing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tmc/GovindanR14.xml"
+  },
+  {
+    "id": "AfonsoNM14.xml",
+    "name": "IEEE Transactions on Multimedia",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tmm/AfonsoNM14.xml"
+  },
+  {
+    "id": "JaiswalSV14.xml",
+    "name": "IEEE Transactions on Network and Service Management",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tnsm/JaiswalSV14.xml"
+  },
+  {
+    "id": "Liu14.xml",
+    "name": "IEEE Transactions on Neural Networks",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tnn/Liu14.xml"
+  },
+  {
+    "id": "Bader14.xml",
+    "name": "IEEE Transactions on Parallel and Distributed Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tpds/Bader14.xml"
+  },
+  {
+    "id": "ZhouHZP14.xml",
+    "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/pami/ZhouHZP14.xml"
+  },
+  {
+    "id": "Zollet14.xml",
+    "name": "IEEE Transactions on Professional Communication",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tpc/Zollet14.xml"
+  },
+  {
+    "id": "PakPS14.xml",
+    "name": "IEEE Transactions on Reliability",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tr/PakPS14.xml"
+  },
+  {
+    "id": "Liu14.xml",
+    "name": "IEEE Transactions on Services Computing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tsc/Liu14.xml"
+  },
+  {
+    "id": "ZonouzDDBBS14.xml",
+    "name": "IEEE Transactions on Smart Grid",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tsg/ZonouzDDBBS14.xml"
+  },
+  {
+    "id": "Nuseibeh14.xml",
+    "name": "IEEE Transactions on Software Engineering",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tse/Nuseibeh14.xml"
+  },
+  {
+    "id": "DengRFO14.xml",
+    "name": "IEEE Transactions on Speech and Audio Processing",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/taslp/DengRFO14.xml"
+  },
+  {
+    "id": "Chestnut70.xml",
+    "name": "IEEE Transactions on Systems Science and Cybernetics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tssc/Chestnut70.xml"
+  },
+  {
+    "id": "Fang14.xml",
+    "name": "IEEE Transactions on Vehicular Technology",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tvt/Fang14.xml"
+  },
+  {
+    "id": "MukadamGKZA14.xml",
+    "name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tvlsi/MukadamGKZA14.xml"
+  },
+  {
+    "id": "RodgersSFH14.xml",
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/tvcg/RodgersSFH14.xml"
+  },
+  {
+    "id": "MedjiahTA14.xml",
+    "name": "IEEE Transactions on Wireless Communications",
+    "url": "http://dblp.uni-trier.de/rec/bibtex/journals/twc/MedjiahTA14.xml"
+  }
+]
