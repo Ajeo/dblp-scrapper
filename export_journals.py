@@ -1,20 +1,26 @@
 #!/usr/bin/python
 
 import json
-from os import listdir
-from os.path import isfile, join
-import xml.dom.minidom 
+import xml.dom.minidom
 
 if ( __name__ == "__main__"):
     journal_names = []
-    root_dir = "./xmls"
-    journals = [ f for f in listdir(root_dir) if isfile(join(root_dir,f)) ]
+    journals_map = []
+
+    json_data = open('./data.json')
+    journals = json.load(json_data)
+    json_data.close()
+
     for journal in journals:
-        doc = xml.dom.minidom.parse(root_dir + "/" + journal)
+        doc = xml.dom.minidom.parse("./xmls/" + journal["id"])
         journal_name = doc.getElementsByTagName("dblp")[0].getElementsByTagName("article")[0].getElementsByTagName("journal")[0].firstChild.data
         journal_names.append(journal_name)
+        journals_map.append({journal_name.replace(" ", '_').replace(".", '').lower() : journal["name"]})
         print journal_name
 
     with open('journals.json', 'w') as outfile:
         json.dump(journal_names, outfile)
+
+    with open('journals_map.json', 'w') as outfile:
+        json.dump(journals_map, outfile)
 
