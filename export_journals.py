@@ -5,7 +5,7 @@ import xml.dom.minidom
 
 if ( __name__ == "__main__"):
     journal_names = []
-    journals_map = []
+    journals_map = {}
 
     json_data = open('./data.json')
     journals = json.load(json_data)
@@ -15,7 +15,10 @@ if ( __name__ == "__main__"):
         doc = xml.dom.minidom.parse("./xmls/" + journal["id"])
         journal_name = doc.getElementsByTagName("dblp")[0].getElementsByTagName("article")[0].getElementsByTagName("journal")[0].firstChild.data
         journal_names.append(journal_name)
-        journals_map.append({journal_name.replace(" ", '_').replace(".", '').lower() : journal["name"]})
+
+        only_name = journal["name"].replace("IEEE Transactions on ", "").replace("ACM Transactions on ", "")
+        journals_map[journal_name.replace(" ", '_').replace(".", '').lower()] = only_name
+
         print journal_name
 
     with open('journals.json', 'w') as outfile:
